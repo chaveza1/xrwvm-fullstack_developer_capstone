@@ -1,0 +1,3 @@
+
+theia@theia-achavez1422:/home/project/xrwvm-fullstack_developer_capstone/server/frontend$ curl -X GET "https://achavez1422-8000.theianext-0-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai//djangoapp/logout"
+{"userName": ""}theia@theia-achavez1422:/home/project/xrwvm-fullstack_developer_capstone/server/frontend$ 
